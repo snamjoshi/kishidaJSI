@@ -17,4 +17,4 @@ This repo contains three files:
 2. An html document containing a much more detailed version of the information in the PowerPoint.
 3. A fully commented version of the JSI R script.
 
-Please uses the issues page to report a bug, feature request, or a change to this interface.
+Please use the issues page to report a bug, feature request, or a change to this interface.
